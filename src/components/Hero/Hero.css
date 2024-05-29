@@ -161,7 +161,7 @@
     }
     .heroText p{
         font-size: 18px;
-        font-weight: 100;
+        font-weight: 500;
     }
 }
 @media (max-width : 576px) {
