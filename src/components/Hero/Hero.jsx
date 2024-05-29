@@ -40,7 +40,7 @@ function Hero(){
             <FontAwesomeIcon icon={faChevronDown} size="xl"/>
                 <a href="#Services">Scroll To Discover</a>
             </div>
-            <div className="copyRight">
+            <div className="copyRighthero">
                 <p>&copy; 2021 - 2022 focal X agency All Right Reserved</p>
             </div>
        </div>
