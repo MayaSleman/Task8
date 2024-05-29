@@ -76,4 +76,8 @@ width: max-content;
         width: max-content;
         margin: 0 auto;
     }
+    .line{
+        margin: 5px auto;
+        width: 80%;
+    }
 }
