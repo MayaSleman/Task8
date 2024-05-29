@@ -6,15 +6,15 @@ import Sservices from "./components/Sservices/Sservices"
 function App() {
   return (
     <>
-    <header>
-      <Navbar />
-      <Hero  />
-    </header>
-    <main>
-      <Sservices />
-      <Hosting /> 
-    </main>
-    <Footer />
+      <header>
+        <Navbar />
+        <Hero />
+      </header>
+      <main>
+        <Sservices />
+        <Hosting />
+      </main>
+      <Footer />
     </>
   )
 }
