@@ -22,7 +22,7 @@ function Navbar() {
           <span>Digital marketing agency</span>
         </div>
         <ul className={active ? "listActive list" :"list1 list"}>
-          <li><a href="#Home" id="home"  className={activeLink === 'Home' ? 'active' : ''}
+          <li><a href="#" id="home"  className={activeLink === 'Home' ? 'active' : ''}
             onClick={() => handleLinkClick('Home')}>Home</a></li>
           <li><a href="#Services" id="services"className={activeLink === 'services' ? 'active' : ''}
             onClick={() => handleLinkClick('services')}>Services</a></li>
