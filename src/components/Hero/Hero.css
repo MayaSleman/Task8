@@ -168,6 +168,9 @@
     .experience{
         display: none;
     }
+    .gamefor{
+        width: 40%;
+    }
 }
 @media (max-width : 376px) {
     .heroText h1{

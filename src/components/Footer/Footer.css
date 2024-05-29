@@ -6,7 +6,6 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 0 50px;
     line-height: 25px;
 }
 .footerContent a{
@@ -75,5 +74,6 @@ width: max-content;
     }
     .focalAgency{
         width: max-content;
+        margin: 0 auto;
     }
 }
